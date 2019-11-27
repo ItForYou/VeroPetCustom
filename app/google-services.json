@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "800006699440",
+    "firebase_url": "https://ddrreeaamm-7927f.firebaseio.com",
+    "project_id": "ddrreeaamm-7927f",
+    "storage_bucket": "ddrreeaamm-7927f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800006699440:android:8b75f739d26a95bc",
+        "android_client_info": {
+          "package_name": "kr.foryou.veropetcustom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800006699440-jg15nfm9rl20e6j25ies135derl8onig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.foryou.veropetcustom",
+            "certificate_hash": "a1b2c33b0919e11f8d5a82bf100130064ed0ae96"
+          }
+        },
+        {
+          "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU3poXqI8pg-GbKMKfpbslqgzuCGn5II8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800006699440-8is1uvn8ft8h1llu71p8b4sluocq7inq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800006699440-n8erkfvcqm6b2v1sc5hso3pn1kb1d3g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreamforone.ssum"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
